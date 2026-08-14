@@ -1,0 +1,3 @@
+python-dotenv==1.0.1
+tweepy==4.17.0
+python-amazon-paapi==5.0.1
