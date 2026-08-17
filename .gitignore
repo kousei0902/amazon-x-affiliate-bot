@@ -5,3 +5,5 @@ __pycache__/
 data/posted_log.csv
 drafts/
 logs/
+images/*
+!images/README.md
